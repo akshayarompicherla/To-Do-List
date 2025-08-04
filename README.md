@@ -1,4 +1,5 @@
  **Modern To-Do List Web Application**
+ 
 This is a responsive and animated to-do list web application built using HTML, CSS, and JavaScript. It features a modern user interface with glassmorphism design principles and a live animated background that cycles through pastel and dark color gradients.
 
  **Features**
@@ -12,5 +13,6 @@ This is a responsive and animated to-do list web application built using HTML, C
 - HTML5
 - CSS3 (Flexbox, Keyframe Animations, Transitions)
 - JavaScript (Vanilla)
+
 
 
